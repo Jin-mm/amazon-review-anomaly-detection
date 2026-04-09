@@ -65,7 +65,7 @@ This project applies unsupervised machine learning techniques to detect unusual 
 ![Word Cloud](results/wordcloud.jpeg)
 
 ### Anomaly Detection (t-SNE Projection)
-![Anomalies](results/isolation_tsne.jpeg)
+![Anomalies](results/kmeans_tsne.jpeg)
 
 ---
 
